@@ -1,4 +1,4 @@
-
+package main;
 import controllers.LoginPageController;
 import models.Hotel;
 import gui.LoginFrame;
